@@ -1,0 +1,9 @@
+[project]
+name = "vectorpg"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+	"onnxruntime==1.19.2",
+]
+
